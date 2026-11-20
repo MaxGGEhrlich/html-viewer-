@@ -1,2 +1,2 @@
-{"name":"HTML Viewer","short_name":"HTML Viewer","start_url":"./","scope":"./","display":"standalone","background_color":"#0e1424","theme_color":"#0e1424",
+{"name":"MGGE HTML","short_name":"MGGE HTML","start_url":"./","scope":"./","display":"standalone","background_color":"#0e1424","theme_color":"#0e1424",
 "icons":[{"src":"icon.png","sizes":"180x180","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
